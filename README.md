@@ -53,7 +53,7 @@
 | 47  | Nama Siswa 47       | [Belum/Menunggu/OK]| [Link Tugas 47](URL_Tugas_47)  |
 | 48  | Nama Siswa 48       | [Belum/Menunggu/OK]| [Link Tugas 48](URL_Tugas_48)  |
 | 49  | Nama Siswa 49       | [Belum/Menunggu/OK]| [Link Tugas 49](URL_Tugas_49)  |
-| 50  | Akun Keuda      | [OK]| [Link Tugas 50](https://github.com/indekslink/revisi-papan-digital)  |
+| 50  | Nama Siswa 50       | [Belum/Menunggu/OK]| [Link Tugas 50](URL_Tugas_50)  |
 
 > **Catatan**: Status Pengumpulan diperbarui sesuai dengan kondisi pengumpulan.
 
