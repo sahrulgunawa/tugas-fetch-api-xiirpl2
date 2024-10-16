@@ -34,7 +34,7 @@
 
 | 27  | Nama Siswa 27       | [Belum/Menunggu/OK]| [Link Tugas 27](URL_Tugas_27)  |
 | 28  | Nama Siswa 28       | [Belum/Menunggu/OK]| [Link Tugas 28](URL_Tugas_28)  |
-| 29  | Nama Siswa 29       | [Belum/Menunggu/OK]| [Link Tugas 29](URL_Tugas_29)  |
+| 29  | Sahrul Gunawan 29       | [OK]| [Link Tugas 29](https://github.com/sahrulgunawa/fetch-data)  |
 | 30  | Nama Siswa 30       | [Belum/Menunggu/OK]| [Link Tugas 30](URL_Tugas_30)  |
 | 31  | Nama Siswa 31       | [Belum/Menunggu/OK]| [Link Tugas 31](URL_Tugas_31)  |
 | 32  | Nama Siswa 32       | [Belum/Menunggu/OK]| [Link Tugas 32](URL_Tugas_32)  |
