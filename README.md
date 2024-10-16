@@ -17,7 +17,7 @@
 | 11  | Nama Siswa 11       | [Belum/Menunggu/OK]| [Link Tugas 11](URL_Tugas_11)  |
 | 12  | Nama Siswa 12       | [Belum/Menunggu/OK]| [Link Tugas 12](URL_Tugas_12)  |
 | 13  | Nama Siswa 13       | [Belum/Menunggu/OK]| [Link Tugas 13](URL_Tugas_13)  |
-| 14  | Nama Siswa 14       | [Belum/Menunggu/OK]| [Link Tugas 14](URL_Tugas_14)  |
+| 14  | Muhammad Hanafi       | [OK]| [Link Tugas 14](https://github.com/Yuuichi-Kun/Fetcher)  |
 | 15  | Nama Siswa 15       | [Belum/Menunggu/OK]| [Link Tugas 15](URL_Tugas_15)  |
 | 16  | Nama Siswa 16       | [Belum/Menunggu/OK]| [Link Tugas 16](URL_Tugas_16)  |
 | 17  | Nama Siswa 17       | [Belum/Menunggu/OK]| [Link Tugas 17](URL_Tugas_17)  |
