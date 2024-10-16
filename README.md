@@ -29,7 +29,7 @@
 | 23  | Nama Siswa 23       | [Belum/Menunggu/OK]| [Link Tugas 23](URL_Tugas_23)  |
 | 24  | Nama Siswa 24       | [Belum/Menunggu/OK]| [Link Tugas 24](URL_Tugas_24)  |
 | 25  | Nama Siswa 25       | [Belum/Menunggu/OK]| [Link Tugas 25](URL_Tugas_25)  |
-| 26  | Nama Siswa 26       | [Belum/Menunggu/OK]| [Link Tugas 26](URL_Tugas_26)  |
+| 26  | Rizki Taba Amanullah 26       | [OK]| [Link Tugas 26]([URL_Tugas_26](https://github.com/RizkyTaba/Fetch-Data))  |
 | 27  | Nama Siswa 27       | [Belum/Menunggu/OK]| [Link Tugas 27](URL_Tugas_27)  |
 | 28  | Nama Siswa 28       | [Belum/Menunggu/OK]| [Link Tugas 28](URL_Tugas_28)  |
 | 29  | Nama Siswa 29       | [Belum/Menunggu/OK]| [Link Tugas 29](URL_Tugas_29)  |
