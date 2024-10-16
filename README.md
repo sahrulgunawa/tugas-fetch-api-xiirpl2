@@ -14,7 +14,7 @@
 | 8   | Nama Siswa 8        | [Belum/Menunggu/OK]| [Link Tugas 8](URL_Tugas_8)    |
 | 9   | Nama Siswa 9        | [Belum/Menunggu/OK]| [Link Tugas 9](URL_Tugas_9)    |
 | 10  | Nama Siswa 10       | [Belum/Menunggu/OK]| [Link Tugas 10](URL_Tugas_10)  |
-| 11  | Nama Siswa 11       | [Belum/Menunggu/OK]| [Link Tugas 11](URL_Tugas_11)  |
+| 11  | Muhammad.Eka Rifqi Jauhar       | [OK]| [Link Tugas 11](https://github.com/ekarifqijauhar23/FETCH.API)  |
 | 12  | Nama Siswa 12       | [Belum/Menunggu/OK]| [Link Tugas 12](URL_Tugas_12)  |
 | 13  | Nama Siswa 13       | [Belum/Menunggu/OK]| [Link Tugas 13](URL_Tugas_13)  |
 | 14  | Nama Siswa 14       | [Belum/Menunggu/OK]| [Link Tugas 14](URL_Tugas_14)  |
