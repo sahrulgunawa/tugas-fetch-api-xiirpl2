@@ -21,7 +21,7 @@
 | 15  | Nama Siswa 15       | [Belum/Menunggu/OK]| [Link Tugas 15](URL_Tugas_15)  |
 | 16  | Nama Siswa 16       | [Belum/Menunggu/OK]| [Link Tugas 16](URL_Tugas_16)  |
 | 17  | Nama Siswa 17       | [Belum/Menunggu/OK]| [Link Tugas 17](URL_Tugas_17)  |
-| 18  | Nama Siswa 18       | [Belum/Menunggu/OK]| [Link Tugas 18](URL_Tugas_18)  |
+| 18  | Nayottama Kumara Rahayu       | [OK]| [Link Tugas 18](https://github.com/Nayottama04/FetchApp)  |
 | 19  | Nama Siswa 19       | [Belum/Menunggu/OK]| [Link Tugas 19](URL_Tugas_19)  |
 | 20  | Nama Siswa 20       | [Belum/Menunggu/OK]| [Link Tugas 20](URL_Tugas_20)  |
 | 21  | Nama Siswa 21       | [Belum/Menunggu/OK]| [Link Tugas 21](URL_Tugas_21)  |
