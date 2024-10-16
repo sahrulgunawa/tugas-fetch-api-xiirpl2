@@ -28,7 +28,7 @@
 | 22  | Nama Siswa 22       | [Belum/Menunggu/OK]| [Link Tugas 22](URL_Tugas_22)  |
 | 23  | Nama Siswa 23       | [Belum/Menunggu/OK]| [Link Tugas 23](URL_Tugas_23)  |
 | 24  | Nama Siswa 24       | [Belum/Menunggu/OK]| [Link Tugas 24](URL_Tugas_24)  |
-| 25  | Nama Siswa 25       | [Belum/Menunggu/OK]| [Link Tugas 25](URL_Tugas_25)  |
+| 25  | Riffi Akmal H       | [OK]| [Link Tugas 25]([URL_Tugas_25](https://github.com/riffi023/tugas-fetch))  |
 | 26  | Nama Siswa 26       | [Belum/Menunggu/OK]| [Link Tugas 26](URL_Tugas_26)  |
 | 27  | Nama Siswa 27       | [Belum/Menunggu/OK]| [Link Tugas 27](URL_Tugas_27)  |
 | 28  | Nama Siswa 28       | [Belum/Menunggu/OK]| [Link Tugas 28](URL_Tugas_28)  |
